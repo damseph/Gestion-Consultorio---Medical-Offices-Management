@@ -1,0 +1,6 @@
+C:\Users\Damián\Desktop\TIF_PROG3_12-12\TIF_PROG3\Entidades\bin\Release\Entidades.dll
+C:\Users\Damián\Desktop\TIF_PROG3_12-12\TIF_PROG3\Entidades\bin\Release\Entidades.pdb
+C:\Users\Damián\Desktop\TIF_PROG3_12-12\TIF_PROG3\Entidades\obj\Release\Entidades.csproj.AssemblyReference.cache
+C:\Users\Damián\Desktop\TIF_PROG3_12-12\TIF_PROG3\Entidades\obj\Release\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Damián\Desktop\TIF_PROG3_12-12\TIF_PROG3\Entidades\obj\Release\Entidades.dll
+C:\Users\Damián\Desktop\TIF_PROG3_12-12\TIF_PROG3\Entidades\obj\Release\Entidades.pdb

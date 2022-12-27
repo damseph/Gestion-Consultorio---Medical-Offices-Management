@@ -1,0 +1,11 @@
+C:\Users\Damián\Desktop\TIF_PROG3_12-12\TIF_PROG3\Negocio\bin\Release\Negocio.dll
+C:\Users\Damián\Desktop\TIF_PROG3_12-12\TIF_PROG3\Negocio\bin\Release\Negocio.pdb
+C:\Users\Damián\Desktop\TIF_PROG3_12-12\TIF_PROG3\Negocio\bin\Release\Dao.dll
+C:\Users\Damián\Desktop\TIF_PROG3_12-12\TIF_PROG3\Negocio\bin\Release\Entidades.dll
+C:\Users\Damián\Desktop\TIF_PROG3_12-12\TIF_PROG3\Negocio\bin\Release\Dao.pdb
+C:\Users\Damián\Desktop\TIF_PROG3_12-12\TIF_PROG3\Negocio\bin\Release\Entidades.pdb
+C:\Users\Damián\Desktop\TIF_PROG3_12-12\TIF_PROG3\Negocio\obj\Release\Negocio.csproj.AssemblyReference.cache
+C:\Users\Damián\Desktop\TIF_PROG3_12-12\TIF_PROG3\Negocio\obj\Release\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Damián\Desktop\TIF_PROG3_12-12\TIF_PROG3\Negocio\obj\Release\Negocio.csproj.CopyComplete
+C:\Users\Damián\Desktop\TIF_PROG3_12-12\TIF_PROG3\Negocio\obj\Release\Negocio.dll
+C:\Users\Damián\Desktop\TIF_PROG3_12-12\TIF_PROG3\Negocio\obj\Release\Negocio.pdb
